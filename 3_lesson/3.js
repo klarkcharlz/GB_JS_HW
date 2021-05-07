@@ -77,6 +77,7 @@ xxx
 xxxx
 xxxxx
 */
+console.log('Task №5');
 
 let s = "";
 
