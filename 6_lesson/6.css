@@ -1,0 +1,30 @@
+.basket {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  background-color: grey;
+  font-size: 45px;
+}
+
+.boxCatalog {
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+}
+
+.catalog {
+  border-width: 1;
+  border-color: black;
+  border-style: solid;
+}
+
+.shop {
+  font-size: 55px;
+  border-collapse: collapse;
+}
+
+.btn {
+  width: 100px;
+  height: 70px;
+  font-size: 40px;
+}
