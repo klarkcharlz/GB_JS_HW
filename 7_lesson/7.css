@@ -1,0 +1,54 @@
+.snake {
+  background-color: green;
+}
+
+.empty {
+  background-color: white;
+}
+
+.barrier {
+  background-color: red;
+}
+
+.food {
+  background-color: yellow;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  width: 25px;
+  height: 25px;
+  border: 1px solid black;
+}
+
+.menuButton {
+  width: 150px;
+  padding: 15px;
+  margin: 10px;
+  color: white;
+  background: #007b32;
+  text-align: center;
+  cursor: pointer;
+}
+
+.menuButton:hover {
+  background: #009641;
+}
+
+#menu {
+  display: flex;
+  justify-content: center;
+}
+
+#game {
+  display: flex;
+  justify-content: center;
+}
+
+#status {
+  display: flex;
+  justify-content: center;
+}
